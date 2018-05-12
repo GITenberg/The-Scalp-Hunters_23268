@@ -1,0 +1,38 @@
+_repo: The-Scalp-Hunters_23268
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stewart, F. A. (Frank Algernon)
+    alias: Stewart, F.A.
+    birthdate: 1877
+    gutenberg_agent_id: '9842'
+    url: http://www.gutenberg.org/2009/agents/9842
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2007-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New Mexico -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- New Mexico -- Juvenile fiction'
+title: The Scalp Hunters
+url: http://www.gutenberg.org/ebooks/23268
